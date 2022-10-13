@@ -1,0 +1,5 @@
+/data/*
+!/data/.gitkeep
+
+/config/*
+!/config/jupyter_notebook_config.py.example
